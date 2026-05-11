@@ -48,31 +48,6 @@ C.A.T.E. is officially **registered intellectual property**.
 </table>
 
 ---
- 
-<div align="center">
-
-### 📺 Live on National TV
-Engineered and operated the **live scoring system** for KPM's Junior Innovathon Competition broadcast nationwide on **RTM**. 
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ©️ Copyrighted AI Product
-C.A.T.E. is officially **registered intellectual property**.
-
-</td>
-<td width="50%">
-
-### 🏅 National Champion
-**1st Place** at the Negeri Kebangsaan Minecraft Education Competition for a renewable energy innovation project. 
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 What I've Built
 
