@@ -35,13 +35,13 @@ I'm currently looking for my first full-time role as a **Junior Software Enginee
 <td width="50%">
 
 ### 🥇 Best Paper Award — ICAR 2025
-Won at the **3rd International Conference on Cross-Disciplinary Academic Research** for C.A.T.E., my AI-powered educational assistant. Out of all the submissions, mine stood out.
+Won at the **3rd International Conference on Cross-Disciplinary Academic Research** for C.A.T.E., my AI-powered educational assistant. 
 
 </td>
 <td width="50%">
 
 ### 📺 Live on National TV
-Engineered and operated the **live scoring system** for KPM's Junior Innovathon Competition — broadcast nationwide on **RTM**. Zero errors. Zero room for error.
+Engineered and operated the **live scoring system** for KPM's Junior Innovathon Competition broadcast nationwide on **RTM**. 
 
 </td>
 </tr>
@@ -49,13 +49,13 @@ Engineered and operated the **live scoring system** for KPM's Junior Innovathon 
 <td width="50%">
 
 ### ©️ Copyrighted AI Product
-C.A.T.E. is officially **registered intellectual property**. Not many students can say their side project has a copyright.
+C.A.T.E. is officially **registered intellectual property**.
 
 </td>
 <td width="50%">
 
 ### 🏅 National Champion
-**1st Place** at the Negeri Kebangsaan Minecraft Education Competition for a renewable energy innovation project. Yes, Minecraft. Yes, it was serious.
+**1st Place** at the Negeri Kebangsaan Minecraft Education Competition for a renewable energy innovation project. 
 
 </td>
 </tr>
