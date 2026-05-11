@@ -14,17 +14,39 @@ What I actually do: I **build things that get used in real life** — from an en
 I'm currently looking for my first full-time role as a **Junior Software Engineer** or **Junior AI Engineer** in Kuala Lumpur. If you're building something real and want someone who can hit the ground running — let's talk :)
 
 ---
-### Highlights
- 
-</div>
-```
-🏆  Best Paper Award     ICAR 2025 — AI-driven educational innovation (C.A.T.E.)
-📺  Live on National TV  Ran the scoring system for KPM's Innovathon on RTM — solo
-©️  Copyrighted Product  C.A.T.E. is officially registered intellectual property
-🥇  National Champion    1st Place, Negeri Kebangsaan Minecraft Education Competition
-🎓  Dean's List          CGPA 3.81 / 4.00 — University Poly-Tech Malaysia
-```
- 
+## 🏆 The Highlights
+
+<table>
+<tr>
+<td width="50%">
+
+### 🥇 Best Paper Award — ICAR 2025
+Won at the **3rd International Conference on Cross-Disciplinary Academic Research** for C.A.T.E., my AI-powered educational assistant. 
+
+</td>
+<td width="50%">
+
+### 📺 Live on National TV
+Engineered and operated the **live scoring system** for KPM's Junior Innovathon Competition broadcast nationwide on **RTM**. 
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ©️ Copyrighted AI Product
+C.A.T.E. is officially **registered intellectual property**.
+
+</td>
+<td width="50%">
+
+### 🏅 National Champion
+**1st Place** at the Negeri Kebangsaan Minecraft Education Competition for a renewable energy innovation project. 
+
+</td>
+</tr>
+</table>
+
 ---
  
 <div align="center">
