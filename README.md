@@ -1,19 +1,20 @@
-<!-- Header Banner -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0D7377&height=220&section=header&text=Ummi%20Haani&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder%20of%20Real%20Things&descAlignY=60&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Ummi%20Haani&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder%20of%20Real%20Things&descAlignY=60&descSize=16&animation=fadeIn"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+build+AI+products+that+actually+work.;Award-winning+AI+researcher+%F0%9F%8F%86;Full-stack+%7C+React+%7C+PHP+%7C+MySQL;LangChain+%7C+Watsonx.ai+%7C+WxFlow;Open+to+Junior+roles+in+KL+%F0%9F%87%B2%F0%9F%87%BE)](https://git.io/typing-svg)
+ 
 </div>
 
 ---
 
 ## 👋 Hey, I'm Haani
 
-> *Fresh grad. AI builder. The person who built a live scoring system for national TV at 20-something.*
+> *Fresh grad. AI builder. The person who built a live scoring system for national TV Junior Innovathon.*
 
-I'm a Computer Science diploma graduate from **University Poly-Tech Malaysia** with a CGPA of **3.81** 🎓 — but honestly, grades aren't the most interesting thing about me.
+I'm a Computer Science diploma graduate from **University Poly-Tech Malaysia** with a CGPA of **3.81** 🎓 
 
 What I actually do: I **build things that get used in real life** — from an enterprise HR portal running at a real company, to an AI assistant that won a Best Paper Award at an international conference.
 
-I'm currently looking for my first full-time role as a **Junior Software Engineer** or **Junior AI Engineer** in Kuala Lumpur. If you're building something real and want someone who can hit the ground running — let's talk.
+I'm currently looking for my first full-time role as a **Junior Software Engineer** or **Junior AI Engineer** in Kuala Lumpur. If you're building something real and want someone who can hit the ground running — let's talk :)
 
 ---
 
