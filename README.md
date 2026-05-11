@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:1B3A6B&height=200&section=header&text=Ummi%20Haani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:161616&height=200&section=header&text=Ummi%20Haani&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=60&descSize=16&animation=fadeIn&fontAlignX=10&descAlignX=10"/>
 
 ---
 
@@ -140,4 +140,4 @@ I'm actively applying for roles and always open to a good conversation — wheth
 </div>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:0D7377&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:0a0a0a&height=120&section=footer&reversal=true"/>
