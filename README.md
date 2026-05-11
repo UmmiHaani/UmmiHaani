@@ -5,37 +5,46 @@
 
 ---
 
-<!-- Know About Me -->
-<div align="center">
-<h2>Know About Me</h2>
-</div>
+## 👋 Hey, I'm Haani
+
+> *Fresh grad. AI builder. The person who built a live scoring system for national TV at 20-something.*
+
+I'm a Computer Science diploma graduate from **University Poly-Tech Malaysia** with a CGPA of **3.81** 🎓 — but honestly, grades aren't the most interesting thing about me.
+
+What I actually do: I **build things that get used in real life** — from an enterprise HR portal running at a real company, to an AI assistant that won a Best Paper Award at an international conference.
+
+I'm currently looking for my first full-time role as a **Junior Software Engineer** or **Junior AI Engineer** in Kuala Lumpur. If you're building something real and want someone who can hit the ground running — let's talk.
+
+---
+
+## 🏆 The Highlights
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td width="50%">
 
-<img src="https://media1.tenor.com/m/NHIkNJqSSowAAAAd/leon-kennedy-resident-evil.gif" width="220" alt="Leon S. Kennedy"/>
-
-> *"It doesn't matter how many times  
->  you get knocked down.  
->  What matters is you always get back up."*
->
-> — **Leon S. Kennedy**
-
-[![RE4 Fan](https://img.shields.io/badge/RE4%20Fan-Since%20Forever-8B0000?style=flat-square&logo=playstation&logoColor=white)]()
+### 🥇 Best Paper Award — ICAR 2025
+Won at the **3rd International Conference on Cross-Disciplinary Academic Research** for C.A.T.E., my AI-powered educational assistant. 
 
 </td>
-<td width="65%">
+<td width="50%">
 
-### Hey, I'm Haani 👋
+### 📺 Live on National TV
+Engineered and operated the **live scoring system** for KPM's Junior Innovathon Competition broadcast nationwide on **RTM**. 
 
-Fresh Computer Science grad from **University Poly-Tech Malaysia** — CGPA 3.81, Dean's List. But honestly the grades aren't the most interesting thing on my resume.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-I build things that get used in real life. Not demo apps. Not tutorial clones. A real enterprise HR system that a real company uses every day. An AI assistant that won an international conference award. A live scoring system that ran on **national television**.
+### ©️ Copyrighted AI Product
+C.A.T.E. is officially **registered intellectual property**.
 
-When I'm not coding I'm probably replaying **Resident Evil 4**, appreciating how Leon shows up with zero backup and still figures it out — which is honestly a very relatable energy when you're a solo developer on a deadline.
+</td>
+<td width="50%">
 
-Currently looking for my first full-time role as a **Junior Software Engineer** or **Junior AI Engineer** in KL. I'm a quick learner, I ship things, and I take ownership seriously. 🤝
+### 🏅 National Champion
+**1st Place** at the Negeri Kebangsaan Minecraft Education Competition for a renewable energy innovation project. 
 
 </td>
 </tr>
@@ -43,85 +52,54 @@ Currently looking for my first full-time role as a **Junior Software Engineer** 
 
 ---
 
-<!-- Highlights -->
-<div align="center">
-<h2>The Highlights</h2>
-</div>
+## 🚀 What I've Built
 
-<table>
-<tr>
-<td width="50%" align="center">
+### 🤖 C.A.T.E. — AI Agent for Education
+> *Compiler's Assistant for Technical Enhancement*
 
-**🏆 Best Paper Award — ICAR 2025**
+My most ambitious project. An AI-powered assistant that helps students learn programming — built with a full multi-agent pipeline.
 
-Won at the 3rd International Conference on Cross-Disciplinary Academic Research for my AI project C.A.T.E. Competed against university-level research submissions and came out on top.
+```
+IBM Watsonx.ai  +  LangChain  +  Wolfram Alpha API  +  WxFlow
+                          ↓
+                   React Native + Expo Go
+                    (Mobile Interface)
+                          ↓
+              Deployed on Vercel as SaaS pre-launch
+```
 
-</td>
-<td width="50%" align="center">
-
-**📺 Ran a Live System on National TV**
-
-Sole technician for KPM's Junior Innovathon Competition, broadcast on RTM nationwide. Built the scoring system, ran it live, kept it stable. Zero errors, zero backup plan.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**©️ Copyrighted AI Product**
-
-C.A.T.E. is officially registered intellectual property. Not just a side project — a product I own.
-
-</td>
-<td width="50%" align="center">
-
-**🥇 National Champion**
-
-1st Place at the Negeri Kebangsaan Minecraft Education Competition for renewable energy innovation. Yes, Minecraft. Yes, it was a real national competition.
-
-</td>
-</tr>
-</table>
+- 🏆 Best Paper Award — ICAR 2025
+- ©️ Copyright registered
+- 🌐 Pre-launch site live on Vercel
+- Built solo from idea → deployed product
 
 ---
 
-<!-- Top Projects -->
-<div align="center">
-<h2>Top Projects</h2>
-</div>
+### 🏢 GLOSEV Staff Management System
+> *Enterprise HR Portal — Currently used in production at Glosev Sdn. Bhd.*
 
-**🤖 [C.A.T.E. — AI Educational Agent](https://github.com/ummihaani)**
-An AI-powered assistant integrating **IBM Watsonx.ai + LangChain + Wolfram Alpha API + WxFlow** into a multi-agent pipeline. Mobile interface in React Native + Expo Go. Deployed on Vercel. Copyrighted. Award-winning.
+Built this **entirely alone** during my internship. It's not a demo — real people use it every day at work.
 
-**🏢 [GLOSEV Staff Portal](https://github.com/ummihaani)**
-A full enterprise HR portal built solo during my internship — RBAC authentication, SMTP alerts, cron automation, 15+ table MySQL database, deployed on company cPanel. Used in production at Glosev Sdn. Bhd. daily.
-
-**🍱 [EzFoodAdha — Food Delivery System](https://github.com/ummihaani)**
-Built during COVID-19 lockdown so students at SMKA Dato Haji Abbas could order healthy canteen meals remotely. PHP, MySQL, vanilla JS, XAMPP. Simple problem, real solution.
-
----
-
-<!-- Leon break -->
-<div align="center">
+| Feature | Tech |
+|---|---|
+| Role-Based Access Control (RBAC) | PHP 8.4 + MySQL |
+| SMTP Email Alerts | JavaScript (AJAX) |
+| Cron-based Automation | Tailwind CSS |
+| 15+ Table Relational Database | cPanel Deployment |
+| Glassmorphism UI | Responsive Design |
 
 ---
 
-*"Saddler, you're small time."*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Leon, probably also describing my bugs
+### 🍱 EzFoodAdha — Food Delivery System
+> *Built during COVID-19 so students could still order canteen food*
 
-<img src="https://media1.tenor.com/m/x3XsNjMGPKEAAAAC/leon-kennedy-re4.gif" width="260" alt="Leon Kennedy RE4"/>
+Simple problem, real impact. Students at SMKA Dato Haji Abbas needed a way to order healthy school meals when the canteen was closed. I built it.
 
-> Just like Leon, I show up, read the situation, and get the job done —  
-> even when everything around me is on fire. 🔥
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `XAMPP`
 
 ---
 
-</div>
-
-<!-- Skills -->
-<div align="center">
-<h2>My Stack</h2>
-</div>
+## 🛠️ My Stack
 
 <div align="center">
 
@@ -142,13 +120,14 @@ Built during COVID-19 lockdown so students at SMKA Dato Haji Abbas could order h
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-**AI & Backend**
+**AI & Tools**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![IBM Watson](https://img.shields.io/badge/IBM_Watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 **Certified**
 
@@ -158,55 +137,45 @@ Built during COVID-19 lockdown so students at SMKA Dato Haji Abbas could order h
 
 ---
 
-<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
 <div align="center">
-<h2>Contribution</h2>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ummihaani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7377&icon_color=0D7377&text_color=ffffff"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummihaani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7377&text_color=ffffff"/>
+</div>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ummihaani&show_icons=true&theme=transparent&hide_border=true&title_color=0D7377&icon_color=0D7377&text_color=ffffff&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummihaani&layout=compact&theme=transparent&hide_border=true&title_color=0D7377&text_color=ffffff&bg_color=0d1117"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ummihaani&theme=react-dark&hide_border=true&bg_color=0d1117&color=0D7377&line=0D7377&point=ffffff"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummihaani&theme=tokyonight&hide_border=true&background=0D1117&ring=0D7377&fire=F0A500&currStreakLabel=0D7377"/>
 </div>
 
 ---
 
-<!-- Currently -->
-<div align="center">
-<h2>Currently</h2>
-</div>
+## 🎯 Currently
 
 ```javascript
 const haani = {
-  status:    "Open to Junior SWE & Junior AI Engineer roles in KL 🇲🇾",
-  location:  "Kuala Lumpur, Malaysia",
-  learning:  ["Python", "Next.js", "FastAPI"],
-  building:  "C.A.T.E. v2 — expanding the agent pipeline",
-  hobbies:   ["Resident Evil 4 🔪", "Breaking AI tools to understand them better"],
-  funFact:   "I ran a live national broadcast scoring system solo at 20. Leon energy."
+  status:       "Open to Junior SWE & Junior AI Engineer roles 🇲🇾",
+  location:     "Kuala Lumpur, Malaysia",
+  learning:     ["Python", "Next.js", "AWS"],
+  building:     "C.A.T.E. v2 — expanding the AI agent pipeline",
+  funFact:      "I once ran a live scoring system on national TV solo. No pressure. 😅"
 }
 ```
 
 ---
 
-<!-- Connect -->
+## 📬 Let's Connect
+
+I'm actively applying for roles and always open to a good conversation — whether it's about a job opportunity, a project collab, or just talking tech.
+
 <div align="center">
-<h2>Connect</h2>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ummihaani)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ummihaani)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrulhaani@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-0D7377?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/ummihaani)
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrulhaani@gmail.com)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ummihaani)
 
-<br/>
-
-> *"Every bug I fix is a small step toward something that actually works."*
-
-> *"Every project I ship is proof I can do the job — not just talk about it."*
+*"I don't just learn tools — I build things with them."*
 
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:0a0a0a&height=120&section=footer"/>
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A6B,100:0D7377&height=120&section=footer"/>
