@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+build+AI+products+that+actually+work.;Award-winning+AI+researcher+%F0%9F%8F%86;Full-stack+%7C+React+%7C+PHP+%7C+MySQL;LangChain+%7C+Watsonx.ai+%7C+WxFlow;Open+to+Junior+roles+in+KL+%F0%9F%87%B2%F0%9F%87%BE)](https://git.io/typing-svg)
  
 </div>
+---
+ 
+<div align="center">
 
 ---
 
