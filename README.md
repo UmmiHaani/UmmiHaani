@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:1B3A6B&height=200&section=header&text=Ummi%20Haani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ummi%20Haani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 ---
 
