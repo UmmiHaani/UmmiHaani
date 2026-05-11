@@ -134,7 +134,6 @@ I'm actively applying for roles and always open to a good conversation — wheth
 <div align="center">
 
 [![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrulhaani@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ummihaani)
 
 *"I don't just learn tools — I build things with them."*
 
