@@ -1,11 +1,5 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Ummi%20Haani&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder%20of%20Real%20Things&descAlignY=60&descSize=16&animation=fadeIn"/>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+build+AI+products+that+actually+work.;Award-winning+AI+researcher+%F0%9F%8F%86;Full-stack+%7C+React+%7C+PHP+%7C+MySQL;LangChain+%7C+Watsonx.ai+%7C+WxFlow;Open+to+Junior+roles+in+KL+%F0%9F%87%B2%F0%9F%87%BE)](https://git.io/typing-svg)
- 
-</div>
----
- 
-<div align="center">
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7377,100:1B3A6B&height=200&section=header&text=Ummi%20Haani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 ---
 
