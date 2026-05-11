@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:161616&height=200&section=header&text=Ummi%20Haani&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=60&descSize=16&animation=fadeIn&fontAlignX=10&descAlignX=10"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Ummi%20Haani&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=60&descSize=16&animation=fadeIn&fontAlignX=10&descAlignX=10"/>
 
 ---
 
@@ -7,7 +7,7 @@
 
 > *Fresh grad. AI builder. The person who built a live scoring system for national TV Junior Innovathon.*
 
-I'm a Computer Science diploma graduate from **University Poly-Tech Malaysia** with a CGPA of **3.81** 🎓 
+I'm a Computer Science diploma graduate from **University Poly-Tech Malaysia** with a CGPA of **3.81** 🎓
 
 What I actually do: I **build things that get used in real life** — from an enterprise HR portal running at a real company, to an AI assistant that won a Best Paper Award at an international conference.
 
@@ -68,33 +68,33 @@ Simple problem, real impact. Students at SMKA Dato Haji Abbas needed a way to or
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=black)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-ffffff?style=flat-square&logo=tailwind-css&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
 
 **AI & Tools**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM_Watsonx.ai-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=flat-square&logo=langchain&logoColor=black)
+![IBM Watson](https://img.shields.io/badge/IBM_Watsonx.ai-000000?style=flat-square&logo=ibm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 **Certified**
 
-![CompTIA](https://img.shields.io/badge/CompTIA_Cloud+-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![CompTIA](https://img.shields.io/badge/CompTIA_Cloud+-1a1a1a?style=flat-square&logo=comptia&logoColor=white)
 
 </div>
 
@@ -103,12 +103,12 @@ Simple problem, real impact. Students at SMKA Dato Haji Abbas needed a way to or
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ummihaani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7377&icon_color=0D7377&text_color=ffffff"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummihaani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D7377&text_color=ffffff"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ummihaani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=aaaaaa&text_color=cccccc"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ummihaani&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=cccccc"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummihaani&theme=tokyonight&hide_border=true&background=0D1117&ring=0D7377&fire=F0A500&currStreakLabel=0D7377"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummihaani&theme=github-dark-blue&hide_border=true&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&stroke=333333"/>
 </div>
 
 ---
@@ -133,11 +133,11 @@ I'm actively applying for roles and always open to a good conversation — wheth
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrulhaani@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrulhaani@gmail.com)
 
 *"I don't just learn tools — I build things with them."*
 
 </div>
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:0a0a0a&height=120&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=120&section=footer"/>
